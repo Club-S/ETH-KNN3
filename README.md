@@ -5,22 +5,28 @@ By leveraging on KNN3 network, users could get on-chain recommendation on the fi
 
 
 ------
-# How it works
+### How it works
+
+<br>
+<br>
+
+### Input
 
 
-# Input
+<br>
+<br>
 
-
-
-# Output
-
-
-
+### Output
 
 
 
 
 
+
+
+
+<br>
+<br>
 
 ## Next 3 months
 - Testnet fully deployment
