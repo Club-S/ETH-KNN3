@@ -8,17 +8,23 @@ By leveraging on KNN3 network, users could get on-chain recommendation on the fi
 ### How it works
 
 <br>
-<br>
 1. Enter number of nft symbols, should be an integer
+<br>
 2. Enter name of nft symbols (in a capital word), eg., CRYPTOPUNKS
 
 ### Input
 
+<br>
+1. Enter number of nft symbols, should be an integer
+<br>
+2. Enter name of nft symbols (in a capital word), eg., CRYPTOPUNKS
 
 <br>
 <br>
 
 ### Output
+
+A list of generated recommend nftholder addresses, and its length.
 
 
 
