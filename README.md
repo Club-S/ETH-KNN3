@@ -9,6 +9,8 @@ By leveraging on KNN3 network, users could get on-chain recommendation on the fi
 
 <br>
 <br>
+1. Enter number of nft symbols, should be an integer
+2. Enter name of nft symbols (in a capital word), eg., CRYPTOPUNKS
 
 ### Input
 
